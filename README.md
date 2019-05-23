@@ -22,3 +22,8 @@ python manage.py migrate
 python manage.py runserver
 ````
 7. You're good to go!
+
+## Documentation
+
++ Go to: __localhost:8000/docs/__ for the rest_framework version, OR
++ __localhost:8000/swagger_docs/__ for the rest_framework_swagger version.
