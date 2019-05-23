@@ -6,11 +6,11 @@ A simple sales web api
 
     pip install -r requirements.txt
 
-3. Create postgreSQL database (using postgreSQL command line, download v11.3 here: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+3. Create postgreSQL database using postgreSQL command line, download v11.3 here: (https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
     CREATE DATABASE cart
 
-4. Modify the DATABASES dictionary in *ShopAPI/sales/settings.py* so that the **'USER', 'PASSWORD', 'HOST', and 'PORT'** match the postgreSQL database you created.
+4. Modify the DATABASES dictionary in __ShopAPI/sales/settings.py__ so that the __'USER', 'PASSWORD', 'HOST', and 'PORT'__ match the postgreSQL database you created.
 
 5. Make your migrations
 
