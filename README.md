@@ -6,7 +6,7 @@ A simple sales web api
 
     pip install -r requirements.txt
 
-3. Create postgreSQL database using postgreSQL command line, download v11.3 [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+3. Create postgreSQL database using postgreSQL command line, (download postgreSQL client v11.3 [here](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads))
 
     CREATE DATABASE cart
 
